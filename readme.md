@@ -563,7 +563,7 @@ Certifique-se de ter:
 
 ### Passo 3: Executar o Script
 ```bash
-./quake4_installer_v7.sh
+./quake4_installer.sh
 ```
 
 O script irá:
