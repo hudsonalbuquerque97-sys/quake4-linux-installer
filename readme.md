@@ -115,7 +115,7 @@ The official Quake 4 Linux installer (v1.4.2) is **freely distributed** by id So
    - https://www.lucaswilliams.net/files/quake4-linux-1.4.2.x86.run
 
 2. **ausgamers**:
-   - https://archive.org/download/quake4-linux/quake4-linux-1.4.2.x86.run](https://www.ausgamers.com/files/download/28958/quake-4-patch-v142-for-linux
+   - https://www.ausgamers.com/files/download/28958/quake-4-patch-v142-for-linux
 
 3. **Holarse Linux Gaming**:
    - https://files.holarse-linuxgaming.de/native/Spiele/Quake%20IV/
@@ -541,7 +541,7 @@ O instalador oficial do Quake 4 para Linux (v1.4.2) é **distribuído gratuitame
    - https://www.lucaswilliams.net/files/quake4-linux-1.4.2.x86.run
 
 2. **ausgamers**:
-   - https://archive.org/download/quake4-linux/quake4-linux-1.4.2.x86.run](https://www.ausgamers.com/files/download/28958/quake-4-patch-v142-for-linux
+   - https://www.ausgamers.com/files/download/28958/quake-4-patch-v142-for-linux
 
 3. **Holarse Linux Gaming**:
    - https://files.holarse-linuxgaming.de/native/Spiele/Quake%20IV/
