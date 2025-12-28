@@ -126,8 +126,8 @@ The official Quake 4 Linux installer (v1.4.2) is **freely distributed** by id So
 
 ### Step 1: Download the Script
 ```bash
-wget https://raw.githubusercontent.com/YOUR_USERNAME/quake4-linux-installer/main/quake4_installer_v7.sh
-chmod +x quake4_installer_v7.sh
+wget https://raw.githubusercontent.com/hudsonalbuquerque97-sys/quake4-linux-installer/refs/heads/main/quake4_installer.sh
+chmod +x quake4_installer.sh
 ```
 
 ### Step 2: Prepare Your Files
@@ -137,7 +137,7 @@ Make sure you have:
 
 ### Step 3: Run the Script
 ```bash
-./quake4_installer_v7.sh
+./quake4_installer.sh
 ```
 
 The script will:
@@ -552,8 +552,8 @@ O instalador oficial do Quake 4 para Linux (v1.4.2) é **distribuído gratuitame
 
 ### Passo 1: Baixar o Script
 ```bash
-wget https://raw.githubusercontent.com/SEU_USUARIO/quake4-linux-installer/main/quake4_installer_v7.sh
-chmod +x quake4_installer_v7.sh
+wget https://raw.githubusercontent.com/hudsonalbuquerque97-sys/quake4-linux-installer/refs/heads/main/quake4_installer.sh
+chmod +x quake4_installer.sh
 ```
 
 ### Passo 2: Preparar Seus Arquivos
@@ -828,21 +828,21 @@ O Que é Firejail?
 
 Firejail é uma ferramenta de segurança que executa aplicações em um ambiente "sandbox" isolado. Isso significa:
 
-- **Isolamento de rede: Jogo não pode acessar a internet (previne potenciais exploits)
-- **Isolamento do sistema de arquivos: Acesso limitado aos seus arquivos
-- **Isolamento de processos: Não pode interferir com outros programas em execução
+- **Isolamento de rede:** Jogo não pode acessar a internet (previne potenciais exploits)
+- **Isolamento do sistema de arquivos:** Acesso limitado aos seus arquivos
+- **Isolamento de processos:** Não pode interferir com outros programas em execução
 
 Por Que Usar Versões em Sandbox?
 
-- **Segurança: Jogos antigos podem ter vulnerabilidades não corrigidas
-- **Privacidade: Previne qualquer potencial telemetria ou coleta de dados
-- **Paz de espírito: Camada extra de proteção
+- **Segurança:** Jogos antigos podem ter vulnerabilidades não corrigidas
+- **Privacidade:** Previne qualquer potencial telemetria ou coleta de dados
+- **Paz de espírito:** Camada extra de proteção
 
 Quando Usar Cada Versão?
 
-- **quake4-smp: Melhor desempenho, use se confiar no jogo
-- **quake4-smp-firejail: Mais seguro, impacto mínimo no desempenho
-- **Escolha baseado no seu nível de conforto ao executar software antigo
+- **quake4-smp:** Melhor desempenho, use se confiar no jogo
+- **quake4-smp-firejail:** Mais seguro, impacto mínimo no desempenho
+- **Escolha baseado no seu nível de conforto ao executar software antigo**
 
 Opções do Firejail
 
