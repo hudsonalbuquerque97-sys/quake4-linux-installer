@@ -160,7 +160,7 @@ When the official installer appears, answer the prompts as follows:
 | 2 | Read README? | **N** | Optional, skip to save time |
 | 3 | Install "All versions (except German release)"? | **Y** | Install all language files |
 | 4 | Installation path | `/usr/local/games/quake4` | **Use exactly this path** (provided by script) |
-| 5 | Create symbolic links? | **Y** | Then choose `/usr/local/bin` |
+| 5 | Create symbolic links? | **Y** | Then choose `/usr/local`|
 | 6 | Create desktop shortcuts? | **N** | Script will create better ones |
 | 7 | Install PunkBuster? | **N** | Optional, doesn't work anymore |
 | 8 | Continue with installation? | **Y** | Proceed with file copy |
@@ -586,7 +586,7 @@ Quando o instalador oficial aparecer, responda às perguntas da seguinte forma:
 | 2 | Ler README? | **N** | Opcional, pule para economizar tempo |
 | 3 | Instalar "All versions (except German release)"? | **Y** | Instala todos os arquivos de idioma |
 | 4 | Caminho de instalação | `/usr/local/games/quake4` | **Use exatamente este caminho** (fornecido pelo script) |
-| 5 | Criar links simbólicos? | **Y** | Depois escolha `/usr/local/bin` |
+| 5 | Criar links simbólicos? | **Y** | Depois escolha `/usr/local`|
 | 6 | Criar atalhos no desktop? | **N** | O script criará melhores |
 | 7 | Instalar PunkBuster? | **N** | Opcional, não funciona mais |
 | 8 | Continuar com instalação? | **Y** | Prosseguir com cópia de arquivos |
