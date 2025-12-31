@@ -1,11 +1,16 @@
-# Quake 4 - Automatic Installer for Linux
-# Quake 4 - Instalador Automático para Linux
+# 🎮 Quake 4 - Automatic Installer for Linux | Quake 4 - Instalador Automático para Linux 🐧
+
 
 <div align="center">
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Linux%20Mint%2022.1%20%7C%20Ubuntu%2024.04-orange.svg)]()
-[![Shell Script](https://img.shields.io/badge/shell-bash-green.svg)]()
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
+![Gaming](https://img.shields.io/badge/Gaming-FF0000?style=for-the-badge&logo=steam&logoColor=white)
+![Quake](https://img.shields.io/badge/Quake%204-000000?style=for-the-badge&logo=gamepad&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PT-BR](https://img.shields.io/badge/PT--BR-009739?style=for-the-badge&logo=googletranslate&logoColor=white)
+![EN](https://img.shields.io/badge/EN-012169?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 [🇺🇸 English](#english) | [🇧🇷 Português (BR)](#português-br)
 
